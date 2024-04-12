@@ -1,0 +1,1 @@
+Thank you for your reminder. Indeed, we should include some example comparisons of the original Loss and CETA in our manuscript to better visually demonstrate the effectiveness of our method. This is the example comparisons of the original loss and CETA.
